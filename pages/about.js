@@ -4,3 +4,4 @@ export default function AboutPage() {
     <div>about</div>
   )
 }
+screen
